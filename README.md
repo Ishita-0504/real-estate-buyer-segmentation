@@ -98,7 +98,16 @@ streamlit run app.py
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots here after deployment.)*
+<img width="941" height="569" alt="image" src="https://github.com/user-attachments/assets/eb5634a2-d3f6-4fe1-93de-277ab0a88301" />
+<img width="792" height="570" alt="image" src="https://github.com/user-attachments/assets/c0ffa1d0-7fc1-4f9a-b20a-095b5f86802c" />
+<img width="814" height="568" alt="image" src="https://github.com/user-attachments/assets/8c21e478-0a8b-422b-94f2-527539ccb779" />
+<img width="639" height="567" alt="image" src="https://github.com/user-attachments/assets/74857bac-d3bc-4676-b23d-78d6460f8ef3" />
+<img width="819" height="570" alt="image" src="https://github.com/user-attachments/assets/0f450b5e-65ba-4cd4-ac9c-2326888a290b" />
+<img width="803" height="513" alt="image" src="https://github.com/user-attachments/assets/fe6506bc-3a35-458a-98d1-9f958ee91773" />
+<img width="814" height="570" alt="image" src="https://github.com/user-attachments/assets/7eae516f-279b-49f0-bf7b-184fcace6192" />
+<img width="788" height="570" alt="image" src="https://github.com/user-attachments/assets/38531ae5-2f66-48b2-8445-a386ca99c0c0" />
+<img width="803" height="569" alt="image" src="https://github.com/user-attachments/assets/9378dcfb-fea8-47f5-88d6-3034c049a2cf" />
+<img width="791" height="524" alt="image" src="https://github.com/user-attachments/assets/32bcb277-7c29-41b1-aee4-72434d1781e9" />
 
 ---
 
