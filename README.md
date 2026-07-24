@@ -74,11 +74,13 @@ docs/Research_Report.pdf
 
 ---
 
-📄 Research Publication
+## 📄 Research Publication
 
 This project has been published in the International Journal of Innovative Research in Technology (IJIRT).
 
 Paper: AI-Powered Buyer Segmentation for Real Estate Using Machine Learning
+
+---
 
 ## ▶️ Run Locally
 
